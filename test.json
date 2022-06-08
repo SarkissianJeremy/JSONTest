@@ -1,0 +1,25 @@
+{
+  "Vehicules":[
+    {
+      "Nom": "Ambulance Année 70",
+      "Prix": "197",
+      "NbdeVehicule": 0,
+      "Production": 0,
+      "description": "Une ancienne ambulance"
+    },
+    {
+      "Nom": "Ambulance Année 2000",
+      "Prix": "10",
+      "NbdeVehicule": 0,
+      "Production": 0,
+      "description": "Une vielle ambulance"
+    },
+    {
+      "Nom": "Ambulance Moderne",
+      "Prix": "250",
+      "NbdeVehicule": 0,
+      "Production": 0,
+      "description": "Une ambulance moderne"
+    }
+  ]
+}
