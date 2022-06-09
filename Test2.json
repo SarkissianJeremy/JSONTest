@@ -1,1 +1,13 @@
+{
+  "Vehicules":[
+    {
+      "Nom": "Ambulance Année 70",
+      "Prix": "197",
+      "NbdeVehicule": 0,
+      "Production": 0,
+      "description": "Une ancienne ambulance",
+      "Images":"E:\BTS\Stage\Clicker\images\AmbulanceModerne.jpg"
+    }
+  ]
+}
 
