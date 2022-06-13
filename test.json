@@ -4,21 +4,24 @@
       "Nom": "Ambulance Année 70",
       "Prix": "197",
       "NbdeVehicule": 0,
-      "Production": 0,
+      "ProductionBase": 0,
+      "Production":1,
       "description": "Une ancienne ambulance"
     }, 
     {
       "Nom": "Ambulance Année 2000",
       "Prix": "10",
       "NbdeVehicule": 0,
-      "Production": 0,
+      "ProductionBase": 0,
+      "Production":5,
       "description": "Une vielle ambulance"
     },
     {
       "Nom": "Ambulance Moderne",
       "Prix": "250",
       "NbdeVehicule": 0,
-      "Production": 0,
+      "ProductionBase": 0,
+      "Production":100,
       "description": "Une ambulance moderne"
     }
   ]
