@@ -1,0 +1,25 @@
+{
+  "Vehicules":[
+    {
+      "Nom": "Honda 125cc",
+      "Prix": "160",
+      "NbdeVehicule": 0,
+      "Production": 1,
+      "description": "Honda 125cc"
+    },
+    {
+      "Nom": "Mt07",
+      "Prix": "1800",
+      "NbdeVehicule": 0,
+      "Production": 18,
+      "description": "Mt07"
+    },
+    {
+      "Nom": "Super Duke 1290",
+      "Prix": "20000",
+      "NbdeVehicule": 0,
+      "Production": 200,
+      "description": "Super Duke 1290"
+    },
+  ]
+}
