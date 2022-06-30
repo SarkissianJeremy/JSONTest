@@ -2,7 +2,7 @@
   "Vehicules":[
     {
       "Nom": "Honda 125cc",
-      "Prix": "160",
+      "Prix": "16",
       "NbdeVehicule": 0,
       "Production": 1,
       "ProductionDeBase":1,
