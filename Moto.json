@@ -5,6 +5,7 @@
       "Prix": "160",
       "NbdeVehicule": 0,
       "Production": 1,
+      "ProductionDeBase":1,
       "description": "Honda 125cc"
     },
     {
@@ -12,6 +13,7 @@
       "Prix": "1800",
       "NbdeVehicule": 0,
       "Production": 18,
+      "ProductionDeBase":18,
       "description": "Mt 07"
     },
     {
@@ -19,6 +21,7 @@
       "Prix": "20000",
       "NbdeVehicule": 0,
       "Production": 200,
+      "ProductionDeBase":200,
       "description": "Super Duke 1290"
     }
   ]
