@@ -6,7 +6,7 @@
       "NbdeVehicule": 0,
       "Production": 1,
       "ProductionDeBase":1,
-      "description": "Honda 125"
+      "description": "Honda  125"
     },
     {
       "Nom": "Mt07",
@@ -14,7 +14,7 @@
       "NbdeVehicule": 0,
       "Production": 18,
       "ProductionDeBase":18,
-      "description": " yamaha Mt 07"
+      "description": " yamaha  Mt 07"
     },
     {
       "Nom": "SuperDuke1290",
@@ -22,7 +22,7 @@
       "NbdeVehicule": 0,
       "Production": 200,
       "ProductionDeBase":200,
-      "description": "Ktm Super Duke 1290"
+      "description": "Ktm  Super Duke 1290"
     },
     {
       "Nom": "H2R",
@@ -30,7 +30,7 @@
       "NbdeVehicule": 0,
       "Production": 5000,
       "ProductionDeBase":5000,
-      "description": " Kawasaki H2R"
+      "description": " Kawasaki  H2R"
     }
   ]
 }
