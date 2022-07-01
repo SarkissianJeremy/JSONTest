@@ -23,6 +23,14 @@
       "Production": 200,
       "ProductionDeBase":200,
       "description": "Super Duke 1290"
+    },
+    {
+      "Nom": "H2R",
+      "Prix": "5000000",
+      "NbdeVehicule": 0,
+      "Production": 5000,
+      "ProductionDeBase":5000,
+      "description": "H2R"
     }
   ]
 }
