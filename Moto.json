@@ -39,6 +39,14 @@
       "Production": 2500,
       "ProductionDeBase":2500,
       "description": " Yamaha  R1"
+    },
+     {
+      "Nom": "bmwS1000rr",
+      "Prix": "50000000",
+      "NbdeVehicule": 0,
+      "Production": 5000,
+      "ProductionDeBase":5000,
+      "description": "BMW  S1000rr"
     }
   ]
 }
